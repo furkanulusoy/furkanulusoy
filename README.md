@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Furkan 👋
 
-<!--
-**furkanulusoy/furkanulusoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity-focused, currently exploring how AI-assisted development
+can be used responsibly to build real security tooling — not polished
+demos, but systems that hold up under real scrutiny.
 
-Here are some ideas to get you started:
+**Currently building: [SentinelPath AI](https://github.com/furkanulusoy/sentinelpath-ai)**
+A MITRE ATT&CK-grounded attack path prediction engine. It maps observed
+network behavior to ATT&CK techniques and ranks the most likely next
+lateral-movement step — with every prediction traceable back to
+observed evidence, not a black box.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 Validated end-to-end against real network traffic in a self-built
+  lab (Windows 10 → Windows Server 2022). The process surfaced two real
+  bugs that no synthetic test would have caught — both documented as
+  [ADRs](https://github.com/furkanulusoy/sentinelpath-ai/tree/main/docs/adr).
+- 🏗️ Hexagonal architecture, 13+ Architecture Decision Records, CI/CD
+  with 111 passing tests.
+- 📄 Full design rationale in
+  [ARCHITECTURE.md](https://github.com/furkanulusoy/sentinelpath-ai/blob/main/ARCHITECTURE.md).
+
+📫 [LinkedIn](https://www.linkedin.com/in/furkan-ulusoy-700745218)
