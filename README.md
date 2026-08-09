@@ -1,4 +1,4 @@
-### Hi, I'm Furkan 👋
+### Hi, I'm Furkan 
 
 Cybersecurity-focused, currently exploring how AI-assisted development
 can be used responsibly to build real security tooling — not polished
