@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/security-robot-coding.gif" width="640" alt="Security robot coding in a cyber lab" />
+  <img src="assets/security-robot-coding.gif" width="520" alt="Security robot coding in a cyber lab" />
 </p>
 
 <h1 align="center">Furkan ULUSOY</h1>
